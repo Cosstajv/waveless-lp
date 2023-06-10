@@ -1,0 +1,7 @@
+:root {
+    --lp-white:#FFFFFF;
+    --lp-black: #242A31;
+    --lp-pink: #FF0559;
+    --lp-green: #0AD18E;
+    --gradient: linear-gradient(310deg,#FFFFFF 70%, hsla(160, 100%, 51%, 0.3))
+}
