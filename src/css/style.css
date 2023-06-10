@@ -13,7 +13,6 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 20px 80px;
-    background-image: linear-gradient(290deg,#FFFFFF 53%, hsla(160, 100%, 51%, 0.3));
 }
 
 .header ul {
@@ -38,7 +37,6 @@ body {
     justify-content: center;
     padding: 64px 80px;
     gap: 32px;
-    background-image: var(--gradient);
 }
 
 .hero .hero-text h1 {
